@@ -2,4 +2,4 @@ aaa
 bb bs
 ccc
 
-I AM IN BRANCH NEW
+I AM IN BRANCH MASTER
